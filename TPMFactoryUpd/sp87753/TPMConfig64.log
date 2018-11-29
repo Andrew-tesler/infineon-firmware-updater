@@ -1,0 +1,10 @@
+﻿2018/11/29 10:05:29.887|00001A8C|Information|CTpmUpdateApp::InitializeProperties|******************************************************************
+2018/11/29 10:05:29.895|00001A8C|Information|CTpmUpdateApp::InitializeProperties|**   Start of HP TPM FW Update session, version 2.0.4.1    **
+2018/11/29 10:05:29.903|00001A8C|Information|CTpmUpdateApp::InitializeProperties|******************************************************************
+2018/11/29 10:05:29.911|00001A8C|Information|CTpmUpdateApp::InitializeProperties|Command line: 
+2018/11/29 10:05:29.936|00001A8C|Information|TpmUpdate::SmbiosInfo::GetSmbiosInfo|Getting SMBIOS information
+2018/11/29 10:05:29.950|00001A8C|Warning    |TpmUpdate::PrivateWmiInfo::GetPrivateWmiSettings|Private WMI error getting command type 0x0D: hr = 0x80041002, return code = 0xFF.
+2018/11/29 10:05:29.957|00001A8C|Information|TpmUpdate::PrivateWmiInfo::GetPrivateWmiSettings|m_isGondorBIOS = 0, m_isEspDriveSupported = 0
+2018/11/29 10:05:29.963|00001A8C|Information|TpmUpdate::PrivateWmiInfo::GetPrivateWmiSettings|, m_isGondorBIOS = 0
+2018/11/29 10:05:29.972|00001A8C|Information|CTpmUpdateApp::GetCurrentTPMMajorVersion|Bad version string. Donot see any period in version string.
+2018/11/29 10:05:29.978|00001A8C|Information|CTpmUpdateApp::GetCurrentTPMMajorVersion|Bad version string. Donot see any period in version string.
