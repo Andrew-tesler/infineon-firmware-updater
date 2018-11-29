@@ -13,6 +13,7 @@ Requirements:
 
 libssl1.0-dev
 ```sh
+sudo apt get install libssl1.0-dev  autoconf automake libtool build-essential
 cd TPMFactoryUpd
 make
 ```
