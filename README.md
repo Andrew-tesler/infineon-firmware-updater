@@ -10,7 +10,8 @@ https://chromium.googlesource.com/chromiumos/overlays/chromiumos-overlay/+/maste
 
 ## Build
 Requirements: 
-* openssl-1.0
+
+libssl1.0-dev
 ```sh
 cd TPMFactoryUpd
 make
